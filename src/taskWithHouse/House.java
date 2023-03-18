@@ -1,4 +1,4 @@
-package TaskWithHouse;
+package taskWithHouse;
 
 public abstract class House  {
     String address;

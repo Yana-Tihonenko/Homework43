@@ -1,4 +1,4 @@
-package TaskWithHouse;
+package taskWithHouse;
 
 public class PrivateHouse extends House {
 

@@ -1,4 +1,4 @@
-package TaskWithHouse;
+package taskWithHouse;
 
 
 import java.util.ArrayList;

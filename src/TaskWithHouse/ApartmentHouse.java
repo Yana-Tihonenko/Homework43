@@ -1,3 +1,5 @@
+package TaskWithHouse;
+
 public class ApartmentHouse extends House {
     int floor;
 

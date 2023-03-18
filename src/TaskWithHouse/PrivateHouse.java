@@ -1,3 +1,5 @@
+package TaskWithHouse;
+
 public class PrivateHouse extends House {
 
     public PrivateHouse(String address) {

@@ -1,3 +1,5 @@
+package TaskWithHouse;
+
 public abstract class House  {
     String address;
 

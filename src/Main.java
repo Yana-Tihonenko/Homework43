@@ -11,6 +11,9 @@ public class Main {
         for (House house: houses) {
             System.out.println(house.toString());
         }
+        for (House house: houses) {
+            System.out.println(house.demolish());
+        }
 
     }
 }

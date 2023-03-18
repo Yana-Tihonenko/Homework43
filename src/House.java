@@ -17,4 +17,7 @@ public abstract class House  {
     public String toString() {
         return "House";
     }
+    public  String demolish(){
+        return "demolish";
+    }
 }
